@@ -133,7 +133,7 @@ Este proyecto permitió fortalecer habilidades en:
 
 # 👤 Autor
 
-**Fernando Chávez**
+**Luis Fernando Chávez Boza**
 
 Economista interesado en análisis de datos, visualización y análisis económico aplicado.
 
